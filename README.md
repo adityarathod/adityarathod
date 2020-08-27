@@ -2,7 +2,7 @@
 
 I'm a **rising sophomore** at The University of Texas at Dallas. ☄️
 
-I currently work as a summer **Software Developer Intern** at RealPage.
+I worked as a **Software Developer Intern** at RealPage this past summer.
 
 You can visit my [portfolio site](https://adityarathod.github.io/) or look through my projects below!
 
