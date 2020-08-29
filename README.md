@@ -1,6 +1,6 @@
 ### Hi, I'm Aditya 👋
 
-I'm a **rising sophomore** at The University of Texas at Dallas. ☄️
+I'm a **sophomore** at The University of Texas at Dallas. ☄️
 
 I worked as a **Software Developer Intern** at RealPage this past summer.
 
