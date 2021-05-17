@@ -5,6 +5,8 @@ I am a third-year computer science student at The University of Texas at Dallas.
 
 ### Things I'm working on (Summer '21)
 
+💼 **Internships**: **Software Developer Intern** @ Paycom (Remote)
+
 👨‍💻 **Courses**: [Big Data Specialization](https://www.coursera.org/specializations/big-data) on Coursera
 
 💻 **Projects**: still a secret :)
