@@ -1,21 +1,33 @@
 ## Hi, I'm Aditya 👋
 
-I am a second-year computer science student at The University of Texas at Dallas. ☄️
+I am a third-year computer science student at The University of Texas at Dallas. ☄️
 
 
-### Things I'm working on
+### Things I'm working on (Summer '21)
 
-💻 **Projects**: [Texas Grid Load Tracker](https://github.com/adityarathod/texas-grid-load-tracker), [Hackback](https://github.com/adityarathod/hackback)
+👨‍💻 **Courses**: [Big Data Specialization](https://www.coursera.org/specializations/big-data) on Coursera
 
-🔬 **Research**: [Comparison of Online Portfolio Selection Algorithms](https://github.com/ACM-Research/online-portfolio-selection)
+💻 **Projects**: still a secret :)
 
-📚 **Student Organizations**: Association for Computing Machinery, Artificial Intelligence Society
+🔬 **Research**: Planning out a new project as a **Research Lead** for ACM Research
 
-### Things I worked on previously
+📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co), Artificial Intelligence Society
 
-☀️ **Summer 2020**: **Software Developer Intern** at RealPage Inc. (Remote)
+### Things I've worked on
 
-🌤 **Summer 2019**: **Clark Summer Research Scholar** at UT Dallas
+🌱 **Spring 2021**
+- **Research Lead** for [Comparison of Online Portfolio Selection Algorithms](https://github.com/ACM-Research/online-portfolio-selection) w/ ACM UTD's Research Program
+- **Web Team Lead** for the Artificial Intelligence Society - core contributor for two main hackathon sites: [HackReason](https://hackreason.aisutd.org) and [HackAI](https://hackai.org)
+- [**Texas Grid Load Tracker**](https://github.com/adityarathod/texas-grid-load-tracker) - an power grid load tracker for the severe weather in Texas that leverages Github Actions
+
+🍂 **Fall 2020**
+- **Research Lead** for [Convolutional Neural Network to Classify Retinal OCT Images](https://github.com/ACM-Research/image-classification-cnn) w/ ACM UTD's Research Program
+
+☀️ **Summer 2020**
+- **Software Developer Intern** @ RealPage Inc. (Remote)
+
+🌤 **Summer 2019**
+- **Clark Summer Research Scholar** @ UT Dallas
 
 ### Links
 
@@ -23,4 +35,4 @@ I am a second-year computer science student at The University of Texas at Dallas
 
 ---
 
-![profile views counter](https://komarev.com/ghpvc/?username=adityarathod&label=profile%20views)
+![profile views counter](https://komarev.com/ghpvc/?username=adityarathod&label=visitors)
