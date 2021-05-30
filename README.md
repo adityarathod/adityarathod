@@ -13,7 +13,7 @@ I am a third-year computer science student at The University of Texas at Dallas.
 
 🔬 **Research**: Planning out a new project as a **Research Lead** for ACM Research
 
-📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co), Artificial Intelligence Society
+📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co)
 
 ### Things I've worked on
 
