@@ -9,7 +9,7 @@ I am a third-year computer science student at The University of Texas at Dallas.
 
 👨‍💻 **Courses**: [Big Data Specialization](https://www.coursera.org/specializations/big-data) on Coursera
 
-💻 **Projects**: still a secret :)
+💻 **Projects**: [Medical Chargemaster ETL Pipeline (Scala + Spark)](https://github.com/adityarathod/medical-chargemaster-etl),  yet more still a secret :)
 
 🔬 **Research**: Planning out a new project as a **Research Lead** for ACM Research
 
