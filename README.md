@@ -7,7 +7,7 @@ I am a third-year computer science student at The University of Texas at Dallas.
 
 💼 **Internships**: **Software Developer Intern** @ Paycom (Remote)
 
-👨‍💻 **Courses**: [Big Data Specialization](https://www.coursera.org/specializations/big-data) on Coursera
+👨‍💻 **Courses**: [Data Engineer w/ Python](https://www.datacamp.com/tracks/data-engineer-with-python) on DataCamp
 
 💻 **Projects**: [Medical Chargemaster ETL Pipeline (Scala + Spark)](https://github.com/adityarathod/medical-chargemaster-etl),  yet more still a secret :)
 
