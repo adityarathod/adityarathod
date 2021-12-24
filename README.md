@@ -3,19 +3,25 @@
 I am a third-year computer science student at The University of Texas at Dallas. ☄️
 
 
-### Things I'm working on (Summer '21)
+### Things I'm working on (❄️ Winter Break '21)
 
-💼 **Internships**: **Software Developer Intern** @ Paycom (Remote)
+💼 **Internships**: In the Summer '22 internship search process!
 
-👨‍💻 **Courses**: [Data Engineer w/ Python](https://www.datacamp.com/tracks/data-engineer-with-python) on DataCamp
+<!-- 👨‍💻 **Courses**: Artificial Intelligence, Operating Systems, Software Engineering -->
 
-💻 **Projects**: [Medical Chargemaster ETL Pipeline (Scala + Spark)](https://github.com/adityarathod/medical-chargemaster-etl),  yet more still a secret :)
+💻 **Projects**: An iOS related project! (a secret for now 🕵️)
 
-🔬 **Research**: Planning out a new project as a **Research Lead** for ACM Research
+<!--🔬 **Research**: Planning out a new project as a **Research Lead** for ACM Research-->
 
 📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co)
 
 ### Things I've worked on
+
+🍂 **Fall 2021**
+- **Research Lead** for [Analysis of Language Trends with a Mobile Keyboard Prediction Model](https://github.com/ACM-Research/federated-learning-mobile-keyboard) w/ ACM UTD's Research Program – the team **_won first place out of 8 teams_** at our Fall Symposium!
+
+☀️ **Summer 2021**
+- **Software Developer Intern** @ Paycom (Remote)
 
 🌱 **Spring 2021**
 - **Research Lead** for [Comparison of Online Portfolio Selection Algorithms](https://github.com/ACM-Research/online-portfolio-selection) w/ ACM UTD's Research Program
