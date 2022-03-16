@@ -3,21 +3,27 @@
 I am a third-year computer science student at The University of Texas at Dallas. ☄️
 
 
-## Things I'm working on (❄️ Winter Break '21)
+## Things I'm working on (🌱 Spring '22)
 
-💼 **Internships**: In the Summer 2022 internship search process!
+💼 **Internships**: Incoming SDE Intern @ Amazon
 
-<!-- 👨‍💻 **Courses**: Artificial Intelligence, Operating Systems, Software Engineering -->
+👨‍💻 **Courses**: Artificial Intelligence, Operating Systems, Software Engineering
 
-💻 **Projects**: An iOS related project! (a secret for now 🕵️)
+💻 **Projects**: `zetaserver`, a ranked competitive multiplayer server for [Zetamac](https://arithmetic.zetamac.com/)
 
-<!--🔬 **Research**: Planning out a new project as a **Research Lead** for ACM Research-->
+📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co) - shifted divisions to HackUTD Experience
 
-📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co)
+🔥 **Hackathons**: Helping host workshops at [WeHack](https://wehackutd.com/) and [HackAI](https://hackai.org/), and helping organize [HackUTD](https://hackutd.co/) IX
+
+🎮 **Games**: Currently inting in [League](https://na.op.gg/summoners/na/Dichotomous)
 
 ## Things I've worked on
 
 ### 2021
+
+**❄️ Winter Break**
+- 💼 Signed an offer for a **Software Development Engineer Intern** position at Amazon!
+- [**ACM Stream Graphics**](https://github.com/adityarathod/acm-stream-graphics) - dynamic, animated motion graphics in React for an online 500-attendee kickoff event (you can see them in action [here](https://www.youtube.com/watch?v=5iIJlpq97OI)).
 
 🍂 **Fall**
 - **Research Lead** for [Analysis of Language Trends with a Mobile Keyboard Prediction Model](https://github.com/ACM-Research/federated-learning-mobile-keyboard) w/ ACM UTD's Research Program – the team **_won first place out of 8 teams_** at our Fall Symposium!
