@@ -9,13 +9,13 @@ I am a third-year computer science student at The University of Texas at Dallas.
 
 👨‍💻 **Courses**: Artificial Intelligence, Operating Systems, Software Engineering
 
-💻 **Projects**: `zetaserver`, a ranked competitive multiplayer server for [Zetamac](https://arithmetic.zetamac.com/)
+<!--💻 **Projects**: None right now.-->
 
 📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co) - shifted divisions to HackUTD Experience
 
-🔥 **Hackathons**: Helping host workshops at [WeHack](https://wehackutd.com/) and [HackAI](https://hackai.org/), and helping organize [HackUTD](https://hackutd.co/) IX
+🔥 **Hackathons**: Helping organize [HackUTD](https://hackutd.co/) IX
 
-🎮 **Games**: Currently inting in [League](https://na.op.gg/summoners/na/Dichotomous)
+🎮 **Games**: Currently feeding the enemy team in [League](https://na.op.gg/summoners/na/Dichotomous)
 
 ## Things I've worked on
 
