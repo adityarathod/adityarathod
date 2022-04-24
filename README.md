@@ -11,7 +11,7 @@ I am a third-year computer science student at The University of Texas at Dallas.
 
 <!--💻 **Projects**: None right now.-->
 
-📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co) - shifted divisions to HackUTD Experience
+📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co) - HackUTD Experience
 
 🔥 **Hackathons**: Helping organize [HackUTD](https://hackutd.co/) IX
 
