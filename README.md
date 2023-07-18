@@ -1,31 +1,13 @@
 ## hi, i'm aditya 👋
 
-senior computer science student @ ut dallas, sde intern @ amazon (summer '22)
+new grad software engineer. data lover.
 
-i like attending & organizing hackathons, learning data science/ml/big data, and building cool stuff
+## what am i working on?
 
-
-
-## things i'm working on
-
-<!--💼 **Internships**: Incoming SDE Intern @ Amazon-->
-
-**courses**: natural language processing, big data, computer networks
-
-**projects**: a few things are brewing in the background
-
-<!--📚 **Student Organizations**: [Association for Computing Machinery](https://acmutd.co) - HackUTD Experience-->
-
-<!--🔥 **Hackathons**: Helping organize [HackUTD](https://hackutd.co/) IX-->
-
-**games**: currently feeding the enemy team in [league](https://na.op.gg/summoners/na/Dichotomous)
-
-**music**: trying to learn guitar
-
-
+visit my [/now](https://adityarathod.github.io/now) page for regularly updated details (coming soon!)
 
 ## links
 
-[portfolio site](https://adityarathod.github.io/) | [resume](https://adityarathod.github.io/resume.pdf) | [linkedin](https://linkedin.com/in/aditya-rathod)
+[website](https://adityarathod.github.io/) | [linkedin](https://linkedin.com/in/aditya-rathod)
 
-![profile views counter](https://komarev.com/ghpvc/?username=adityarathod&label=visitors) <-- thanks for being one of them :)
+![profile views counter](https://komarev.com/ghpvc/?username=adityarathod&label=visitors&style=flat-square) <-- thanks for being one of them :)
