@@ -2,6 +2,8 @@
 
 i make things
 
+i don't represent my employer here
+
 ## what am i working on?
 
 visit my [/now](https://adityarathod.github.io/now) page for regularly updated details (coming soon!)
