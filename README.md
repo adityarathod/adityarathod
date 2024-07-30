@@ -6,7 +6,7 @@ i don't represent my employer here
 
 ## what am i working on?
 
-visit my [/now](https://adityarathod.github.io/now) page for regularly updated details (coming soon!)
+not sure. i tend to work on many things
 
 ## links
 
