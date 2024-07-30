@@ -1,6 +1,6 @@
-## hi, i'm aditya 👋
+## hi
 
-new grad software engineer. data lover.
+i make things
 
 ## what am i working on?
 
