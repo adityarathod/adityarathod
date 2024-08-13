@@ -6,7 +6,7 @@ i don't represent my employer here
 
 ## what am i working on?
 
-not sure. i tend to work on many things
+some swift (ios) and rust (web) stuff.
 
 ## links
 
