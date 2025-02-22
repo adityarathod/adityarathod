@@ -1,10 +1,6 @@
 ## hello!
 
-i tend to make things. i don't represent my employer here.
-
-## what am i working on?
-
-some swift (ios) and rust (web) stuff.
+i make things sometimes. i don't represent my employer here.
 
 ## links
 
