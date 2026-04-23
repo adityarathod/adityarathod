@@ -1,9 +1,8 @@
 ## hello!
 
-i make things sometimes. i don't represent my employer here.
+- i make things every...sometimes. most of my explorations go unfinished.
+- i don't represent my employer here.
 
 ## links
 
 [website](https://adibytes.dev/) | [linkedin](https://linkedin.com/in/aditya-rathod)
-
-![profile views counter](https://komarev.com/ghpvc/?username=adityarathod&label=visitors&style=flat-square) <-- thanks for being one of them :)
